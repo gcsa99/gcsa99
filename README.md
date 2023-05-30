@@ -5,7 +5,7 @@
 
 - 📫 Pode entrar em contato comigo **serra.g@outlook.com**
 
-- 📄 Sobre minhas experiências [Me formei no IFSP onde tive oportunidade de aprender com profissionais incríveis e aprender um pouquinho das mais diversas áreas da tecnologia, desde desenvolvimento web, banco de dados, sistemas operacionais, machine learning até robótica e desenvolvimento baixo nivel com assembly.](Me formei no IFSP onde tive oportunidade de aprender com profissionais incríveis e aprender um pouquinho das mais diversas áreas da tecnologia, desde desenvolvimento web, banco de dados, sistemas operacionais, machine learning até robótica e desenvolvimento baixo nivel com assembly.)
+- 📄 Sobre minhas experiências Me formei no IFSP onde tive oportunidade de aprender com profissionais incríveis e aprender um pouquinho das mais diversas áreas da tecnologia, desde desenvolvimento web, banco de dados, sistemas operacionais, machine learning até robótica e desenvolvimento baixo nivel com assembly.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
