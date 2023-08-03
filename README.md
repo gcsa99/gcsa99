@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente trabalhando na empresa Wen no Projeto **Prontuário Eletrônico Unica**
 
-- 🌱 Atualmente, estou aprendendo **Flutter e me aprimorando em .Net e Angular**
+- 🌱 No momento, estou aprendendo **Flutter e me aprimorando em .Net e Angular**
 
 - 📫 Pode me contactar **serra.g@outlook.com**
 
