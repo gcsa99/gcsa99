@@ -9,8 +9,8 @@
 
 - 📫 Pode me contactar **serra.g@outlook.com**
 
-- 📄 Sobre minhas experiências [Me formei no IFSP onde tive oportunidade de aprender com profissionais incríveis e aprender um pouquinho das mais diversas áreas da tecnologia, desde desenvolvimento web, banco de dados, sistemas operacionais, machine learning até robótica e desenvolvimento baixo nivel com assembly.]
-- 📝 [Estou gostando de desenvolver em .Net. Estou fazendo cursos e aprendendo sobre o desenvolvimento de WebAPI e descobrindo sobre o desenvolvimento front-end com Angular.]
+- 📄 Sobre minhas experiências Me formei no IFSP onde tive oportunidade de aprender com profissionais incríveis e aprender um pouquinho das mais diversas áreas da tecnologia, desde desenvolvimento web, banco de dados, sistemas operacionais, machine learning até robótica e desenvolvimento baixo nivel com assembly.
+- 📝 Estou gostando de desenvolver em .Net. Estou fazendo cursos e aprendendo sobre o desenvolvimento de WebAPI e descobrindo sobre o desenvolvimento front-end com Angular.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
