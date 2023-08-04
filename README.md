@@ -45,6 +45,6 @@
 ##
 <div>
 <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p>
-<p><img height="200" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p> 
-<p><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
+<p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p> 
+<!--<p><img align="left" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>-->
 </div>
