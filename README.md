@@ -44,5 +44,7 @@
 
 ##
 <div>
-<p><img align="left" width="30%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /> <img width="30%" height="300" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /> &nbsp; <img width="30%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
+<p><img align="left" width="30%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p>
+<p><img width="30%" height="300" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p> 
+<p><img width="30%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
 </div>
