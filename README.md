@@ -49,7 +49,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&hide_border=true&theme=github_dark" />
 </a>
 <a href="https://github.com/gcsa99">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&layout=compact&langs_count=10&show_icons=true&theme=github_dark&card_width=320&hide_border=true" />
+  <img height=200 width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&layout=compact&langs_count=10&show_icons=true&theme=github_dark&card_width=320&hide_border=true" />
 </a>
 <a href="https://github.com/gcsa99">
   <img width="40%"align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=gcsa99&repo=AssaultCube-com-Anticheat&hide_border=true&show_icons=true&theme=github_dark" />
