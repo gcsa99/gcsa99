@@ -1,7 +1,7 @@
-<h1 align="center">👋Oi, eu sou o Gui</h1>
+<h1 align="center">👋Oi, eu sou o Gui <p align="right"> <img src="https://komarev.com/ghpvc/?username=gcsa99&label=Profile%20views&color=0ea9b4&style=flat" alt="gcsa99" /> </p></h1>
 <h3 align="center">👨‍💻Engenheiro da Computação, de São Paulo.</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=gcsa99&label=Profile%20views&color=0ea9b4&style=flat" alt="gcsa99" /> </p>
+
 
 - 💼 Atualmente trabalhando na empresa **Wen**, atuando no Projeto **Prontuário Eletrônico Unica**
 
@@ -42,7 +42,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; 
 </p>
 
-##
+## 📊Stats
 <div>
 <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p>
 <p><img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p> 
