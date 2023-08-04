@@ -41,22 +41,10 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp; 
 </p>
-##
-<table style="border-style:none">
-<tr align="center">
-  <td align="center">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p>
-  </td>
-</tr>
-<tr align="center">
-  <td align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p>
-  </td>
-</tr>
-<tr align="center">
-  <td align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
-  </td>
-</tr>
-</table>
 
+##
+<div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
+</div>
