@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=gcsa99&label=Profile%20views&color=0ea9b4&style=flat" alt="gcsa99" /> </p>
 
-- 💼 Atualmente trabalhando na empresa **Wen** no Projeto **Prontuário Eletrônico Unica**
+- 💼 Atualmente trabalhando na empresa **Wen**, atuando no Projeto **Prontuário Eletrônico Unica**
 
 - 🌱 No momento, estou aprendendo **Flutter e me aprimorando em .Net e Angular**
 
