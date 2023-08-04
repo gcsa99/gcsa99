@@ -46,12 +46,14 @@
 ## 📊Stats
 
 <a href="https://github.com/gcsa99">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/gcsa99">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&layout=compact&langs_count=10&show_icons=true&theme=github_dark&card_width=320" />
 </a>
 <a href="https://github.com/gcsa99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gcsa99&repo=AssaultCube-com-Anticheat" />
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=gcsa99&repo=AssaultCube-com-Anticheat" />
 </a>
-  <a href="https://roadmap.sh"><img height="150em" src="https://api.roadmap.sh/v1-badge/wide/64cc493d0d755ccbebd7d076?variant=dark&roadmaps=backend%2Caspnet-core" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh">
+    <img height="150em" src="https://api.roadmap.sh/v1-badge/wide/64cc493d0d755ccbebd7d076?variant=dark&roadmaps=backend%2Caspnet-core" alt="roadmap.sh"/>
+  </a>
