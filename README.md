@@ -4,9 +4,9 @@
 
 
 
-- 💼 Atualmente trabalhando na empresa **Wen**, atuando no Projeto **Prontuário Eletrônico Unica**
+- 💼 Atualmente trabalhando na empresa **Wen**, atuando como desenvolvedor no Projeto **Prontuário Eletrônico Unica**
 
-- 🌱 No momento, estou aprendendo **Flutter e me aprimorando em .Net e Angular**
+- 🌱 No momento, estou aprendendo **.Net e Angular**, quando sobra um tempo, estudo um pouco de **Flutter** também
 
 - 📫 Pode me contactar **serra.g@outlook.com**
 
