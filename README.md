@@ -44,12 +44,19 @@
 </p>
 <table>
 <tr align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p></tr>
-<tr align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p>
+  <td align="center">
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="gcsa99" /></p>
+  </td>
 </tr>
 <tr align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
+  <td align="center">
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gcsa99&show_icons=true&theme=dark&hide_border=true&locale=en" alt="gcsa99" /></p>
+  </td>
+</tr>
+<tr align="center">
+  <td align="center">
+    <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
+  </td>
 </tr>
 </table>
 
