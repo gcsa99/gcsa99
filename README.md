@@ -1,4 +1,5 @@
-<h1 align="center">👋Oi, eu sou o Gui <p align="right"> <img src="https://komarev.com/ghpvc/?username=gcsa99&label=Profile%20views&color=0ea9b4&style=flat" alt="gcsa99" /> </p></h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=gcsa99&label=Profile%20views&color=0ea9b4&style=flat" alt="gcsa99" /> </p>
+<h1 align="center">👋Oi, eu sou o Gui </h1>
 <h3 align="center">👨‍💻Engenheiro da Computação, de São Paulo.</h3>
 
 
