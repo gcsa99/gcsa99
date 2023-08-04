@@ -52,6 +52,6 @@
   </a>
 </p> 
   <p align="left">
-  <a href="https://roadmap.sh"><img height="200em" src="https://api.roadmap.sh/v1-badge/wide/64cc493d0d755ccbebd7d076?variant=dark&roadmaps=backend%2Caspnet-core" alt="roadmap.sh"/></a>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
+  <a href="https://roadmap.sh"><img height="180em" src="https://api.roadmap.sh/v1-badge/wide/64cc493d0d755ccbebd7d076?variant=dark&roadmaps=backend%2Caspnet-core" alt="roadmap.sh"/></a>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gcsa99&theme=dark" alt="gcsa99" /></p>
 </div>
