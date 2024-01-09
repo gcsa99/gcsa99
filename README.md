@@ -12,7 +12,7 @@
 
 - 📄 Sobre minhas experiências, me formei no **IFSP** onde tive oportunidade de aprender com profissionais incríveis e aprender um pouquinho das mais diversas áreas da tecnologia, desde desenvolvimento web, banco de dados, sistemas operacionais, machine learning até robótica e desenvolvimento baixo nivel com assembly. Participei de competições de robótica, tendo um artigo publicado na Mostra Nacional de Robótica.
 
-- 📝 Estou gostando de desenvolver em **.Net**. Sigo fazendo cursos e aprendendo mais sobre o **desenvolvimento de WebAPI** e descobrindo sobre o desenvolvimento front-end com **Angular**.
+- 📝 Estou gostando de desenvolver em **Node.JS**. Sigo fazendo cursos e aprendendo mais sobre o **desenvolvimento de APIs**.
 
 ## 📫 Connect with me:
 <p align="left">
