@@ -1,3 +1,9 @@
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gcsa99.gcsa99&left_color=darkslateblue&right_color=deepskyblue"  />
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -64,6 +70,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-a-76220a136/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -75,9 +83,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" src="https://profile-counter.glitch.me/gcsa99/count.svg?"  />
 
 ###
