@@ -90,7 +90,7 @@
   <a href="https://www.linkedin.com/in/guilherme-a-76220a136/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="[https://www.discord.com/](https://discordapp.com/users/eoqjesus)" target="_blank">
+  <a href="https://discordapp.com/users/eoqjesus" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:serra.g@outlook.com" target="_blank">
