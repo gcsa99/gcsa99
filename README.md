@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Guilherme and I'm a Computer Enginner, from Brazil</p>
+<p align="left">My name is Guilherme and I'm a Computer Engineer, from Brazil</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br><br>🌱 I'm currently learning Node.JS and Python with a focus on backend<br><br>💬 Ask me about Node.JS, SQL<br><br>📄 Know about my experiences I graduated from IFSP where I had the opportunity to learn from incredible professionals and learn a little about the most diverse areas of technology, from web development, databases, operating systems, machine learning to robotics and low-level development with assembly. I participated in robotics competitions, having an article published at the National Robotics Exhibition.</p>
+<p align="left">✨ Creating bugs since 2017<br><br>🌱 I'm currently learning Node.JS and Kotlin with a focus on backend<br><br>💬 Ask me about Node.JS, Nest.js SQL<br><br>📄 Know about my experiences I graduated from IFSP where I had the opportunity to learn from incredible professionals and learn a little about the most diverse areas of technology, from web development, databases, operating systems, machine learning to robotics and low-level development with assembly. I participated in robotics competitions, having an article published at the National Robotics Exhibition.</p>
 
 ###
 
