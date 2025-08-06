@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br><br>🌱 I'm currently learning Node.JS and Kotlin with a focus on backend<br><br>💬 Ask me about Node.JS, Nest.js SQL<br><br>📄 Know about my experiences I graduated from IFSP where I had the opportunity to learn from incredible professionals and learn a little about the most diverse areas of technology, from web development, databases, operating systems, machine learning to robotics and low-level development with assembly. I participated in robotics competitions, having an article published at the National Robotics Exhibition.</p>
+<p align="left">✨ Creating bugs since 2017<br><br>🌱 I'm currently learning Microservices, Kotlin/Spring with a focus on backend<br><br>💬 Ask me about Node.JS, Nest.js SQL<br><br>📄 Know about my experiences I graduated from IFSP where I had the opportunity to learn from incredible professionals and learn a little about the most diverse areas of technology, from web development, databases, operating systems, machine learning to robotics and low-level development with assembly. I participated in robotics competitions, having an article published at the National Robotics Exhibition.</p>
 
 ###
 
@@ -35,9 +35,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="spring logo"  />
 </div>
 
 ###
@@ -54,6 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="45" alt="aws logo"  />
 </div>
 
 ###
@@ -62,6 +64,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="45" alt="mssql logo"  />
 </div>
 
 ###
