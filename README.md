@@ -22,7 +22,7 @@
 ```typescript
 const guilherme = {
   role: 'Backend Software Engineer @ Syngenta',
-  project: 'Syde - Financial Technology Platform',
+  project: 'Syde',
   location: 'Brazil 🇧🇷',
   experience: '3+ years',
 
@@ -44,7 +44,7 @@ const guilherme = {
 
   philosophy: 'Code should be clean, organized, and serve a single purpose',
   currentFocus: 'English proficiency & Kotlin/Spring ecosystem',
-  funFact: 'Creating bugs (and fixing them!) since 2017 ✨',
+  funFact: 'Studying and creating bugs (and fixing them!) since 2018 ✨',
 };
 ```
 
