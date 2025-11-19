@@ -57,7 +57,6 @@ const serra = {
 <td width="60%">
 
 ### 🏢 Backend Software Engineer @ **Syngenta**
-*Building Syde - Financial Technology Solutions*
 
 **What I Do:**
 - 🏗️ Design & implement systems using **Clean Architecture** and **DDD patterns**
