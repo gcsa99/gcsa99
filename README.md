@@ -20,18 +20,18 @@
 ## 🚀 About Me
 
 ```typescript
-const guilherme = {
+const serra = {
   role: 'Backend Software Engineer @ Syngenta',
   project: 'Syde',
   location: 'Brazil 🇧🇷',
   experience: '3+ years',
-
+  
   specialties: {
     architecture: ['Clean Architecture', 'Domain-Driven Design', 'Microservices', 'Event-Driven'],
     principles: ['SOLID', 'Single Responsibility', 'Separation of Concerns'],
-    mindset: 'Logical reasoning, systematic problem-solving & elegant system design',
+    mindset: 'Logical reasoning, systematic problem-solving & elegant system design'
   },
-
+  
   stack: {
     languages: ['TypeScript', 'JavaScript', 'Kotlin', 'SQL'],
     backend: ['Node.js', 'NestJS', 'Spring Boot'],
@@ -39,12 +39,12 @@ const guilherme = {
     cloud: ['AWS'],
     devOps: ['Docker', 'Kafka', 'Linux', 'GitHub Actions', 'CircleCI'],
     monitoring: ['DataDog', 'Sentry'],
-    testing: ['Jest - maintaining 80%+ coverage'],
+    testing: ['Jest - maintaining 80%+ coverage']
   },
-
+  
   philosophy: 'Code should be clean, organized, and serve a single purpose',
   currentFocus: 'English proficiency & Kotlin/Spring ecosystem',
-  funFact: 'Studying and creating bugs (and fixing them!) since 2018 ✨',
+  funFact: "Studying development and creating bugs (and fixing them!) since 2018 ✨"
 };
 ```
 
@@ -57,11 +57,9 @@ const guilherme = {
 <td width="60%">
 
 ### 🏢 Backend Software Engineer @ **Syngenta**
-
-_Building Syde - Financial Technology Solutions_
+*Building Syde - Financial Technology Solutions*
 
 **What I Do:**
-
 - 🏗️ Design & implement systems using **Clean Architecture** and **DDD patterns**
 - 🎯 Maintain **80%+ test coverage** across all services
 - 🚀 Build CI/CD pipelines with **GitHub Actions** & **CircleCI**
@@ -69,7 +67,6 @@ _Building Syde - Financial Technology Solutions_
 - 🔧 Deliver scalable solutions with **TypeScript, NestJS, AWS, Kafka**
 
 **How I Work:**
-
 - 🤝 Collaborative design sessions & domain storytelling
 - 🧩 Breaking complex logic into DDD aggregates
 - 🧭 Monitoring-first: alerts, dashboards & postmortems
@@ -82,7 +79,6 @@ _Building Syde - Financial Technology Solutions_
 **IFSP - Computer Engineering**
 
 **Expertise Across:**
-
 - 🌐 Web & Backend Systems
 - 🗄️ Database Design
 - 🤖 Robotics & Assembly
@@ -102,7 +98,7 @@ Published at **National Robotics Exhibition**
 
 <div align="center">
 
-> ### _"Code should be clean, organized, and serve a single purpose"_
+> ### *"Code should be clean, organized, and serve a single purpose"*
 
 </div>
 
@@ -111,9 +107,8 @@ Published at **National Robotics Exhibition**
 <td width="50%" valign="top">
 
 ### 🏛️ Architecture & Design
-
 - **Domain-Driven Design** - Aligning code with business reality
-- **Clean Architecture** - Separation of concerns & testability
+- **Clean Architecture** - Separation of concerns & testability  
 - **SOLID Principles** - Maintainable, scalable systems
 - **Microservices** - Decoupled, independently deployable services
 
@@ -121,7 +116,6 @@ Published at **National Robotics Exhibition**
 <td width="50%" valign="top">
 
 ### 🧠 Problem-Solving Approach
-
 - **Logical Reasoning** - Systematic thinking for complex challenges
 - **System Design** - Robust, efficient architectures
 - **Test-Driven** - 80%+ coverage is non-negotiable
@@ -140,7 +134,7 @@ Published at **National Robotics Exhibition**
 ```yaml
 Focus Areas:
   - 🗣️  English Language Proficiency (actively improving)
-  - ☕  Kotlin & Spring Boot Ecosystem
+  - ☕  Kotlin & Spring Boot Ecosystem  
   - 🔄  Advanced Microservices Patterns
   - ⚡  Event-Driven Architecture with Kafka
   - ☁️  Cloud-Native Development on AWS
@@ -155,36 +149,58 @@ Focus Areas:
 <div align="center">
 
 ### Languages & Frameworks
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" title="TypeScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" title="JavaScript" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" title="Kotlin" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" title="Node.js" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS" title="NestJS" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="Spring Boot" title="Spring Boot" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="Jest" title="Jest" />
+</p>
 
 ### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB" title="MongoDB" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
+</p>
 
 ### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" title="Amazon Web Services" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="Apache Kafka" title="Apache Kafka" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" title="GitLab" />
+</p>
 
 ### Monitoring & Tools
-
-![DataDog](https://img.shields.io/badge/DataDog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="40" alt="DataDog" title="DataDog" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sentry/sentry-original.svg" height="40" alt="Sentry" title="Sentry" />
+</p>
 
 </div>
 
